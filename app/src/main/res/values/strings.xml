@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bài 3</string>
+    <string name="app_second_name">Thông tin chi tiết</string>
+    <string name="text_tittle">PHIẾU THÔNG TIN</string>
+    <string name="hint_name">Nhập tên</string>
+    <string name="hint_address">Nhập địa chỉ</string>
+    <string name="hint_phone_number">Nhập số điện thoại</string>
+    <string name="text_button_agree">Xác nhận</string>
+</resources>
